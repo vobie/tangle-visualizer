@@ -1,0 +1,16 @@
+{
+  "name": "iri_viz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "udp_listen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "express": "^4.15.3",
+    "ws": "^3.0.0"
+  }
+}
